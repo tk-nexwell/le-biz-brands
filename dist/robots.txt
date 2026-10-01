@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tk-nexwell.github.io/le-biz-brands/sitemap.xml
